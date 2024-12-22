@@ -214,7 +214,6 @@ void run_shell() {
 
 int main() {
     cout << "This is shell made by 2024313206 Jeong Ho Won" <<endl;
-    cout << "for System Programmming [SWE2001_43]" << endl;
     std::string asciiArt = R"(
         _    .  ,   .           .
     *  / \_ *  / \_      _  *        *   /\'__        *
